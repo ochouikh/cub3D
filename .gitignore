@@ -1,0 +1,8 @@
+*.o
+todo
+cub3D
+.vscode
+obj
+*.tldr
+Readme.txt
+.DS_Store
